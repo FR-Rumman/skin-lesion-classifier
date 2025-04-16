@@ -1,8 +1,0 @@
-streamlit
-tensorflow==2.10
-keras
-numpy==1.21
-Pillow
-matplotlib
-pandas
-gdown
