@@ -1,1 +1,1 @@
-# skin-lesion-classifier
+# Skin-Lesion-Classifier
