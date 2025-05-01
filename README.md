@@ -1,5 +1,5 @@
 # Skin-Lesion-Classifier
-#Impact on society/environment
+Impact on society/environment
 The monkeypox outbreak originated from the Democratic
 Republic of Congo (DRC), a severely underdeveloped
 country that lies on Central Africa. The ongoing conflict
